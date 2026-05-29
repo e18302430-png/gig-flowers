@@ -1,0 +1,8 @@
+{
+  "name": "GIGI FLOWERS",
+  "description": "منصة التصميم الافتراضي ثلاثي الأبعاد وإدارة وتخطيط زهور قاعات المناسبات الفاخرة بالمملكة العربية السعودية بالذكاء الاصطناعي",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
